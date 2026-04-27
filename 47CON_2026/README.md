@@ -21,7 +21,7 @@ This operation was executed by the following squad:
 The 100% resolution of the CTF environment was officially validated by the organizing entity, **Asociación SUGUS**.
 
 <p align="center">
-  <img src="assets/diploma_47con.jpg" width="600" alt="Official Recognition Diploma">
+  <img src="assets/diploma_47con.png" width="600" alt="Official Recognition Diploma">
 </p>
 
 ---
