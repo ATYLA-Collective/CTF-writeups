@@ -1,0 +1,46 @@
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Editores y Entornos
+.vscode/
+.idea/
+*.swp
+*~
+
+# Entornos Virtuales y Variables (Seguridad)
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Compilados y Binarios
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Artefactos de Ingeniería Inversa (IDA, Ghidra, Radare2)
+*.idb
+*.i64
+*.nam
+*.til
+*.rep/
+*.gzf
+*.rdb
+
+# Volcados y Logs
+core
+*.dmp
+*.log
+
+# Excepciones
+!.gitkeep
