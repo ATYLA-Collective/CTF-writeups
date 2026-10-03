@@ -7,7 +7,7 @@ Official CTF writeup repository by ATYLA Collective. Focused on Reversing, Pwn, 
 
 ## Registry
 
-| Reto | Tipo | CTF | Fecha |
-| :--- | :--- | :--- | :--- |
+| Reto | Tipo | CTF | Fecha | Autor
+| :--- | :--- | :--- | :--- | :--- |
 | [Pickle Rick](./writeups/pickle_rick_writeup.pdf) | Misc | 47CON | Abril 2026 | Alejandro Herreros |
 | [None](writeups/None/) | Crypto | 47CON | Abril 2026 | Pablo Alonso |
