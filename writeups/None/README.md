@@ -10,6 +10,6 @@ de retículos con BKZ.
 
 | | |
 |---|---|
-| Writeup completo | [writeup.pdf](writeup.pdf) |
+| Writeup completo | [none_writeup.pdf](none_writeup.pdf) |
 | Exploit | [solve.sage](solve.sage) |
 | Enunciado del reto | [challenge.json](challenge.json) |
