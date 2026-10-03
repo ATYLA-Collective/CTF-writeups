@@ -31,5 +31,5 @@ The following directories contain the technical documentation and exploitation l
 
 | Challenge | Category | Documentation |
 | :--- | :--- | :--- |
-| Pickle Rick | Misc / Web | [Writeup](../writeups/pickle_rick_writeup.pdf) |
-| None | Cryptography | [Writeup](../writeups/None/) |
+| Pickle Rick | Misc / Web | [Writeup](../writeups/pickle_rick_writeup.pdf) | Alejandro Herreros |
+| None | Cryptography | [Writeup](../writeups/None/) | Pablo Alonso |
