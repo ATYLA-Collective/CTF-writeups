@@ -8,7 +8,7 @@
 ## 📝 Executive Summary
 During the **47CON CTF (April 17-18, 2026)**, the **ATYLA Collective** successfully compromised the entire target infrastructure. The team resolved all proposed challenges across multiple offensive disciplines, concluding with a total score of **7600 points**.
 
-## 👥 Task Force:
+## 👥 Team:
 
 * **Pablo Alonso Carrillo**
 * **Alejandro Herreros Rueda**
