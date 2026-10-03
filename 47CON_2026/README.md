@@ -29,7 +29,7 @@ The 100% resolution of the CTF environment was officially validated by the organ
 ## 🎯 Featured Technical Write-ups
 The following directories contain the technical documentation and exploitation logic for the selected challenges:
 
-| Challenge | Category | Documentation |
+| Challenge | Category | Documentation | Author
 | :--- | :--- | :--- |
 | Pickle Rick | Misc / Web | [Writeup](../writeups/pickle_rick_writeup.pdf) | Alejandro Herreros |
 | None | Cryptography | [Writeup](../writeups/None/) | Pablo Alonso |
