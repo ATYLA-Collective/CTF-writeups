@@ -17,8 +17,8 @@ During the **47CON CTF (April 17-18, 2026)**, the **ATYLA Collective** successfu
 
 ---
 
-## 🏆 Official Technical Recognition
-The 100% resolution of the CTF environment was officially validated by the organizing entity, **Asociación SUGUS**.
+## 🏆 Technical Recognition
+The 100% resolution of the CTF environment was validated by the organizing entity, **Asociación SUGUS**.
 
 <p align="center">
   <img src="assets/diploma_47con.png" width="600" alt="Official Recognition Diploma">
